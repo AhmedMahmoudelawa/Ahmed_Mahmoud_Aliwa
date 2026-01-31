@@ -60,21 +60,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedMahmoudAliwa&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=AhmedMahmoudAliwa&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMahmoudAliwa&show_icons=true&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoudAliwa&layout=compact&theme=react&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoudAliwa&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudAliwa&theme=react-dark&hide_border=true" width="100%"/>
-
-<hr>
-
-<h2 align="center">🚀 What I'm Currently Learning</h2>
-
-<ul>
   <li>Advanced Machine Learning</li>
   <li>Feature Engineering & Model Optimization</li>
   <li>Real-world Data Science Projects</li>
