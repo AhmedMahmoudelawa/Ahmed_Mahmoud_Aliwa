@@ -1,30 +1,38 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMahmoudAliwa">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMahmoudAliwa.AhmedMahmoudAliwa" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ahmed+Mahmoud+Aliwa;Data+Science+&+ML+Enthusiast!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I'm+Ahmed+Mahmoud+Aliwa;Data+Science+%26+ML+Enthusiast;CS+Student+%7C+Python+Lover&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ahmed-mahmoud-aliwa/" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/AhmedMahmoudAliwa" title="GitHub"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"> GitHub</a></code>
-  <code><a href="https://www.hackerrank.com/ahmed_mahmoud_aliwa" title="HackerRank"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg"> HackerRank</a></code>
+  <code><a href="https://www.linkedin.com/in/ahmed-mahmoud-elawa-14504835b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="ahmeedelawa@gmail.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"> Email</a></code>
+  <code><a href="https://github.com/AhmedMahmoudAliwa" title="GitHub"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
 </h5>
 
+<br>
+
 <p align="center">
-  👨‍🎓 Computer Science Student | Data Science & ML Enthusiast  
+  Hi, I'm <b>Ahmed Mahmoud Aliwa</b> 👨‍💻  
+  <br><br>
+  🎓 Computer Science Student – Faculty of Computers & AI  
   <br>
-  💻 Python, C++, SQL, Power BI, Excel, HTML/CSS/JS  
+  📊 Interested in <b>Data Science, Machine Learning & Data Analysis</b>  
   <br>
-  📚 Learning ML, Deep Learning, and advanced Data Analytics  
+  🐍 Python Developer with strong background in data manipulation & visualization  
   <br>
-  💬 Ask me anything on <a href="https://github.com/AhmedMahmoudAliwa?tab=repositories">GitHub</a>
+  📈 Skilled in turning raw data into meaningful insights  
+  <br>
+  💬 Ask me about <b>Python, Pandas, NumPy, ML, SQL</b>  
+  <br>
+  📫 Reach me via Email or LinkedIn  
 </p>
 
 <hr>
 
-<h2 align="center">🐝 Tech Stack & Tools</h2>
+<h2 align="center">🐝 Tech Stack – Honeycomb Style</h2>
 
 <table align="center">
   <tr>
@@ -38,43 +46,30 @@
     <td align="center"><b>🤖 Scikit-Learn</b><br>Machine Learning</td>
   </tr>
   <tr>
+    <td align="center"><b>🧠 ML</b><br>Classification & Regression</td>
     <td align="center"><b>🗄 SQL</b><br>Databases</td>
-    <td align="center"><b>📊 Power BI</b><br>Dashboards</td>
-    <td align="center"><b>📊 Excel</b><br>Reporting</td>
+    <td align="center"><b>📉 Power BI</b><br>Dashboards</td>
   </tr>
   <tr>
-    <td align="center"><b>🌐 HTML/CSS/JS</b><br>Web Basics</td>
+    <td align="center"><b>📊 Excel</b><br>Reporting</td>
+    <td align="center"><b>🌐 HTML/CSS</b><br>Web Basics</td>
     <td align="center"><b>🧰 Git & GitHub</b><br>Version Control</td>
-    <td align="center"><b>💻 C++ & Python</b><br>Programming</td>
   </tr>
 </table>
 
-<hr>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h2 align="center">📊 Stats & Analytics</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMahmoudAliwa&show_icons=true&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoudAliwa&layout=compact&theme=react&hide_border=true"/>
+</p>
 
-### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedMahmoudAliwa&theme=react-dark&hide_border=true)
-
-### 📊 Languages Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoudAliwa&layout=compact&theme=react&hide_border=true)
-
-### 📌 Productivity KPIs
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMahmoudAliwa&show_icons=true&theme=react&hide_border=true)
-
-### 🔥 Consistency (Streak)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedMahmoudAliwa&theme=react&hide_border=true)
+  <li>Advanced Machine Learning</li>
+  <li>Feature Engineering & Model Optimization</li>
+  <li>Real-world Data Science Projects</li>
+  <li>Deploying ML Models</li>
+</ul>
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories</h2>
-
-<div align="center">
-  <a href="https://github.com/AhmedMahmoudAliwa/Algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedMahmoudAliwa&repo=Algorithms&theme=react&border_radius=10"></a>
-  <a href="https://github.com/AhmedMahmoudAliwa/DataScience-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedMahmoudAliwa&repo=DataScience-Projects&theme=react&border_radius=10"></a>
-  <a href="https://github.com/AhmedMahmoudAliwa/ML-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedMahmoudAliwa&repo=ML-Projects&theme=react&border_radius=10"></a>
-</div>
-
-<h4 align="center">
-  <a href="https://github.com/AhmedMahmoudAliwa?tab=repositories" title="Show More">🔎 Show More 🔍</a>
-</h4>
+<h3 align="center">✨ Always learning, always improving ✨</h3>
