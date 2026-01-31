@@ -32,47 +32,30 @@
 
 <hr>
 
-<h2 align="center">🧰 Tech Stack & Tools</h2>
+<h2 align="center">🐝 Tech Stack – Honeycomb Style</h2>
 
-<h3 align="center">👨‍💻 Programming</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<h3 align="center">📊 Data Science & Analysis</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-
-<h3 align="center">🤖 Machine Learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-<h3 align="center">📈 Business Intelligence</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-<h3 align="center">🌐 Web Basics</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<h3 align="center">🛠 Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>🐍 Python</b><br>Data Analysis & ML</td>
+    <td align="center"><b>📊 Pandas</b><br>Data Manipulation</td>
+    <td align="center"><b>🔢 NumPy</b><br>Numerical Computing</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📈 Matplotlib</b><br>Visualization</td>
+    <td align="center"><b>🎨 Seaborn</b><br>Statistical Plots</td>
+    <td align="center"><b>🤖 Scikit-Learn</b><br>Machine Learning</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧠 ML</b><br>Classification & Regression</td>
+    <td align="center"><b>🗄 SQL</b><br>Databases</td>
+    <td align="center"><b>📉 Power BI</b><br>Dashboards</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Excel</b><br>Reporting</td>
+    <td align="center"><b>🌐 HTML/CSS</b><br>Web Basics</td>
+    <td align="center"><b>🧰 Git & GitHub</b><br>Version Control</td>
+  </tr>
+</table>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
